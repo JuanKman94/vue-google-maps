@@ -1,8 +1,9 @@
-# vue-google-maps
+# vue2-google-maps
 
-## Vue-2 port of vue-google-maps
+## Vue-2.2.4 port of vue2-google-maps
 
-This is the Vue 2.x port of vue-google-maps!
+This is the Vue 2.2.4 port of vue2-google-maps! Useable with Framework7+Vue
+template.
 
 If you have used vue-google-maps with Vue 1.x before, refer to [Upgrading](UPGRADING.md).
 
